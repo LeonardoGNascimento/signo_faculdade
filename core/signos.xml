@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+    <signos>
+        <signo>
+            <dataInicio>03-21</dataInicio>
+            <dataFim>04-20</dataFim>
+            <signoNome>Áries</signoNome>
+            <descricao>Lorem ipsum dolor sit amet.</descricao>
+        </signo>
+        <signo>
+            <dataInicio>04-21</dataInicio>
+            <dataFim>05-20</dataFim>
+            <signoNome>Touro</signoNome>
+            <descricao>Lorem ipsum dolor sit amet.</descricao>
+        </signo>
+    </signos>
