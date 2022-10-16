@@ -32,6 +32,7 @@
     </div>
 </body>
 
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <script src="./js/buscarSigno.js"></script>
 <script src="./node_modules/axios/dist/axios.min.js"></script>
 
